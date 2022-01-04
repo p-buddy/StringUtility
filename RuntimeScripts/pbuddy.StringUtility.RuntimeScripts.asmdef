@@ -1,0 +1,14 @@
+{
+    "name": "pbuddy.StringUtility.RuntimeScripts",
+    "rootNamespace": "pbuddy.StringUtility.RuntimeScripts",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

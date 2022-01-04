@@ -1,0 +1,25 @@
+{
+    "name": "pbuddy.StringUtility.EditModeTests",
+    "rootNamespace": "pbuddy.StringUtility.EditModeTests",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "pbuddy.TestUtility.EditorScripts",
+        "pbuddy.StringUtility.RuntimeScripts"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": false,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
